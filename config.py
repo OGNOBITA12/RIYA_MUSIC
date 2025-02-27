@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RIYA_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RIYA_CHAT_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_UPDATE")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/OG_FRAINDS")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://carder.top/imagens/1740630435559-655543370.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/8kifut.jpg"
+    "PING_IMG_URL", "https://carder.top/imagens/1740630435559-655543370.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/8kifut.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2vq8oz.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/2vq8oz.jpg"
+PLAYLIST_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+STATS_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+TELEGRAM_AUDIO_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+TELEGRAM_VIDEO_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+STREAM_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SOUNCLOUD_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+YOUTUBE_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://carder.top/imagens/1740630435559-655543370.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
