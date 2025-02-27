@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─˹ʀɪʏᴧ ꭙ ᴍᴜsɪᴄ˼─
+    ─˹SHUZUKA ꭙ ᴍᴜsɪᴄ˼─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/n4vivz.jpg">
+  <img src="https://graph.org/file/24d2bf40ad749900f03a5-0918ffdd6e35a3d388.jpg">
 </p>
 
 
