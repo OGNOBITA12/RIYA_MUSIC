@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/24d2bf40ad749900f03a5-0918ffdd6e35a3d388.jpg">
+  <img src="https://graph.org/file/a52771f6d6798532db55d-22062f86e09f6880b3.jpg">
 </p>
 
 
